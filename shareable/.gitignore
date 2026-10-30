@@ -1,0 +1,12 @@
+/artifacts/
+.venv/
+__pycache__/
+*.py[cod]
+credentials.json
+token.json
+token.txt
+config.json
+*.pem
+*.key
+.env
+.env.*

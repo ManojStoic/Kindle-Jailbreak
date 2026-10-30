@@ -1,0 +1,28 @@
+# Downloaded installation/recovery material; do not commit binaries or script snapshots.
+/artifacts/
+**/artifacts/
+
+# User backups and local secrets must remain outside version control.
+/backup/
+/backups/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Private working history and device-specific material; only share the curated kit.
+/PROJECT_JOURNAL.md
+/dashboard/
+/docs/
+/scripts/
+/kindlelab-dashboard.koplugin/
+/kindlelab-snake.koplugin/
+__pycache__/
+*.py[cod]
+.venv/
+credentials.json
+token.json
+token.txt
+config.json
+dashboard-snapshot.txt
