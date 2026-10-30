@@ -6,9 +6,10 @@ from a computer on the same network. SimpleUI provides the book library, reading
 statistics and layout. Google Calendar and weather are optional. No Google Tasks,
 game, books, wallpaper, personal settings or credentials are included.
 
-This is derived from a working Paperwhite 3 setup, but this **portable version has
-not yet been tested on a Kindle**. SimpleUI and KOReader APIs and layouts may
-change. It is not a universal installer: newer Kindles may use MTP rather than a
+The original KindleLab dashboard was tested and worked on a Paperwhite 3. This
+shareable version adapts that setup for other users; its changes have not yet been
+tested on a Kindle. SimpleUI and KOReader APIs and layouts may change. It is not
+a universal installer: newer Kindles may use MTP rather than a
 drive letter, and compatibility varies by exact model and firmware.
 
 ## Before installing
